@@ -1,7 +1,6 @@
-import java.util.Random;
 import java.util.Scanner;
 
-public class tree33 {
+public class tree39 {
     public static void main(String[] args) {
         BinaryTree parityTree = new BinaryTree();
         System.out.print("Количество вершин: N = ");

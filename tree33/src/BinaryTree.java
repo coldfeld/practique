@@ -9,11 +9,8 @@ public class BinaryTree {
         return Math.max(getHeight(root.left), getHeight(root.right)) + 1;
     }
 
-    public void add(int value) {
-        root = addRecursive (root, value);
-    }
 
-    public void скeateBalanced(int num){
+    public void createBalanced(int num){
         //this.root = new Node(0);
         root = create(this.root, num, 0);
     }
@@ -25,17 +22,6 @@ public class BinaryTree {
         if(value > 1){
             current.left = create(current.left, value/2, next);
             current.right = create(current.right, (value -1)/2, next);
-        }
-        return current;
-    }
-
-    private Node addRecursive (Node current, int value) {
-        if (current == null) {
-            return new Node(value);
-        } else if (current.left == null) {
-            current.left = new Node(value);
-        } else {
-            current.right = addRecursive (current.right, value);
         }
         return current;
     }

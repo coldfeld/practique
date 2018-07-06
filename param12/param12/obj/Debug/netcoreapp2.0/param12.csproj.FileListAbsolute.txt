@@ -1,0 +1,11 @@
+C:\Users\Kero\source\practique\param12\param12\bin\Debug\netcoreapp2.0\param12.deps.json
+C:\Users\Kero\source\practique\param12\param12\bin\Debug\netcoreapp2.0\param12.runtimeconfig.json
+C:\Users\Kero\source\practique\param12\param12\bin\Debug\netcoreapp2.0\param12.runtimeconfig.dev.json
+C:\Users\Kero\source\practique\param12\param12\bin\Debug\netcoreapp2.0\param12.dll
+C:\Users\Kero\source\practique\param12\param12\bin\Debug\netcoreapp2.0\param12.pdb
+C:\Users\Kero\source\practique\param12\param12\obj\Debug\netcoreapp2.0\param12.csprojAssemblyReference.cache
+C:\Users\Kero\source\practique\param12\param12\obj\Debug\netcoreapp2.0\param12.csproj.CoreCompileInputs.cache
+C:\Users\Kero\source\practique\param12\param12\obj\Debug\netcoreapp2.0\param12.AssemblyInfoInputs.cache
+C:\Users\Kero\source\practique\param12\param12\obj\Debug\netcoreapp2.0\param12.AssemblyInfo.cs
+C:\Users\Kero\source\practique\param12\param12\obj\Debug\netcoreapp2.0\param12.dll
+C:\Users\Kero\source\practique\param12\param12\obj\Debug\netcoreapp2.0\param12.pdb

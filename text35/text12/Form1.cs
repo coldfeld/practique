@@ -45,7 +45,7 @@ namespace text35
             List<string> mas = new List<string>();
             foreach (string i in richTextBox1.Lines)
                 mas.Add(i);
-            string pattern = "([а-яa-z0-9].?)+";
+            string pattern = "[а-яa-z0-9]+";
             Regex r = new Regex(pattern, RegexOptions.IgnoreCase);
             for (int i = 0; i < mas.Count-1; i++)
             {
@@ -56,10 +56,10 @@ namespace text35
                     string s = "";
                     
                     foreach (Match match in r.Matches(mas[i])){
-                        s += match.Value;
+                        s += match.Value + " ";
                     }
                     if (s.Length % 2 != 0) buf += " ";
-                    for (int j = 0; j < (50 - m.Value.Length) / 2; j++) buf += " ";
+                    for (int j = 0; j < (50 - s.Length) / 2; j++) buf += " ";
                     mas[i] = buf+s;
                 }
             }

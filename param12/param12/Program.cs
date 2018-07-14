@@ -264,7 +264,7 @@ namespace param12
         {
             Console.WriteLine("Введите количество вершин: ");
             int n = readNum();
-            Console.WriteLine("Введите попарно начения координат для вершн: ");
+            Console.WriteLine("Введите попарно значения координат для вершин: ");
             TPoint[] mas = new TPoint[n];
             for (int i = 0; i < mas.Length; i++)
             {

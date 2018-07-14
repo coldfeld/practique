@@ -18,3 +18,13 @@ C:\Users\Kero\source\text35\text12\obj\Debug\text35.csproj.GenerateResource.cach
 C:\Users\Kero\source\text35\text12\obj\Debug\text35.csproj.CoreCompileInputs.cache
 C:\Users\Kero\source\text35\text12\obj\Debug\text12.exe
 C:\Users\Kero\source\text35\text12\obj\Debug\text12.pdb
+C:\Users\Kero\source\practique\text51\text12\bin\Debug\text12.exe.config
+C:\Users\Kero\source\practique\text51\text12\bin\Debug\text12.exe
+C:\Users\Kero\source\practique\text51\text12\bin\Debug\text12.pdb
+C:\Users\Kero\source\practique\text51\text12\obj\Debug\text35.csprojAssemblyReference.cache
+C:\Users\Kero\source\practique\text51\text12\obj\Debug\text51.Form1.resources
+C:\Users\Kero\source\practique\text51\text12\obj\Debug\text12.Properties.Resources.resources
+C:\Users\Kero\source\practique\text51\text12\obj\Debug\text35.csproj.GenerateResource.cache
+C:\Users\Kero\source\practique\text51\text12\obj\Debug\text35.csproj.CoreCompileInputs.cache
+C:\Users\Kero\source\practique\text51\text12\obj\Debug\text12.exe
+C:\Users\Kero\source\practique\text51\text12\obj\Debug\text12.pdb
